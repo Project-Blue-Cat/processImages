@@ -1,0 +1,8 @@
+{
+  "RESULT_TOPIC": "project-blue-cat-image-result-topic",
+  "RESULT_BUCKET": "project-blue-cat-documents",
+  "TRANSLATE_TOPIC": "project-blue-cat-translation-topic",
+  "IMAGE_BUCKET": "test-data-bucket",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
